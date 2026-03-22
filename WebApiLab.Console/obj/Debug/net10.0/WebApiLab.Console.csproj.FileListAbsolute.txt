@@ -1,0 +1,14 @@
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\bin\Debug\net10.0\WebApiLab.Console.exe
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\bin\Debug\net10.0\WebApiLab.Console.deps.json
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\bin\Debug\net10.0\WebApiLab.Console.runtimeconfig.json
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\bin\Debug\net10.0\WebApiLab.Console.dll
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\bin\Debug\net10.0\WebApiLab.Console.pdb
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\obj\Debug\net10.0\WebApiLab.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\obj\Debug\net10.0\WebApiLab.Console.AssemblyInfoInputs.cache
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\obj\Debug\net10.0\WebApiLab.Console.AssemblyInfo.cs
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\obj\Debug\net10.0\WebApiLab.Console.csproj.CoreCompileInputs.cache
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\obj\Debug\net10.0\WebApiLab.Console.dll
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\obj\Debug\net10.0\refint\WebApiLab.Console.dll
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\obj\Debug\net10.0\WebApiLab.Console.pdb
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\obj\Debug\net10.0\WebApiLab.Console.genruntimeconfig.cache
+C:\Users\Jessica L\WebApiLab\WebApiLab.Console\obj\Debug\net10.0\ref\WebApiLab.Console.dll
